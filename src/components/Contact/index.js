@@ -31,6 +31,7 @@ const refForm = useRef();
                 (response) => {
                     console.log('Email sent successfully!', response);
                     alert('Message successfully sent!')
+                    window.location.reload(false)
                 },
                 (error) => {
                     console.error('Failed to send the message:', error);
