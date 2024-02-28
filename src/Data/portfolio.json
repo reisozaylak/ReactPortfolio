@@ -1,0 +1,34 @@
+{
+    "portfolio": [
+        {
+            "cover": "/assets/portfolio/SimonGame/SimonGame.png",
+            "title": "Simon Game",
+            "description": "JavaScript, JQuery , CSS , HTML",
+            "url": "https://reisozaylak.github.io/Simon-Game/"
+        },   
+        {
+            "cover": "/assets/portfolio/DrumKit/Drumkit.png",
+            "title": "Drum Kit",
+            "description": "JavaScript , CSS , HTML",
+            "url": "https://reisozaylak.github.io/DrumKit/"
+        }, 
+        {
+            "cover": "/assets/portfolio/Dice/Dice.png",
+            "title": "Random Dice",
+            "description": "JavaScript , CSS , HTML",
+            "url": "https://reisozaylak.github.io/DiceChallenge/"
+        },
+        {
+            "cover": "/assets/portfolio/Gideon/Gideon.jpg",
+            "title": "Gideon",
+            "description": "Unreal Engine 5 , Blueprint ",
+            "url": "https://www.youtube.com/watch?v=-wkPUaOdHVs"
+        },
+        {
+            "cover": "/assets/portfolio/Github/Github.png",
+            "title": "GitHub",
+            "description": "If you looking for more of my projects check the link below.",
+            "url": "https://github.com/reisozaylak"
+        }
+    ]
+}
